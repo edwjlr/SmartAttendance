@@ -1,0 +1,11 @@
+# Ignore environment variables file
+admin-page/.env
+edge-service/.env
+
+# Ignore the virtual environment
+edge-service/test_env/
+
+# Ignore generated and build files
+admin-page/node_modules/
+admin-page/build/
+edge_service/__pycache__/
