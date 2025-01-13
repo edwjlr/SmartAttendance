@@ -1,4 +1,4 @@
-# SmartAttendance
+# Classroom Attendance System
 
 
 ## Documentation
