@@ -1,0 +1,4 @@
+.thumbnail {
+    width: 100px; /* Set the width of the thumbnail */
+    height: auto; /* Maintain aspect ratio */
+}
