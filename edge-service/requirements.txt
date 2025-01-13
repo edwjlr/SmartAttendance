@@ -1,0 +1,8 @@
+opencv-python
+dlib
+face_recognition
+git+https://github.com/ageitgey/face_recognition_models
+setuptools
+wheel
+google-cloud-firestore
+google-cloud-storage
