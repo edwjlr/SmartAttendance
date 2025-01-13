@@ -164,6 +164,12 @@ classroom-attendance-system/
 └── README.md                         # This file
 ```
 
+## Network Diagram
+
+Below is the network diagram showcasing the system architecture:
+
+![Network Diagram](./assets/network_diagram.png)
+
 ## Pre-trained Models
 The system requires the **shape_predictor_68_face_landmarks.dat** model for facial feature detection.
 
