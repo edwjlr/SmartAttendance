@@ -9,7 +9,7 @@ The **Classroom Attendance System** is a facial recognition-based attendance tra
 - Integration with Google Cloud for storing and managing attendance data.
 
 ## Documentation
-You can view the full project documentation [here](./Phase%203.pdf).
+You can view the full project documentation [here](./assets/Phase_3.pdf).
 
 ## Installation
 
